@@ -22,7 +22,7 @@ export const Navbar= ()=>{
             <NavLink style={NavLinkStyles} to='/'>Home</NavLink>
             <NavLink style={NavLinkStyles} to='/products'>Products</NavLink>
             <NavLink style={NavLinkStyles} to='/about'>About</NavLink>
-            <NavLink style={NavLinkStyles} to='/contact'>Contact Us</NavLink>
+            <NavLink style={NavLinkStyles} to='/contact'>ContactUs</NavLink>
             { /*<NavLink  style={NavLinkStyles} to ='/products'>Products</NavLink>
                 
             
